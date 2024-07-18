@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#clock{
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    
+}
